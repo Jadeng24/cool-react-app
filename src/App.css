@@ -1,0 +1,23 @@
+.App {
+  text-align: left;
+}
+
+
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+.userName {
+  padding: 100px;
+  background: black;
+}
+
+
+
+.input_button {
+  width: 10vw;
+  height: 5vh;
+  background: whitesmoke;
+  border-radius: 10px;
+}
